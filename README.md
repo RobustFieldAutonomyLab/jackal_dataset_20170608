@@ -5,7 +5,7 @@ Bag files captured using a Clearpath Jackal Robot, which is equipped with a Velo
 ## Environment
 
 The environment features trees, buildings and grass.
-![Screenshot](/google_earth.png)
+![Screenshot](/google_earth.bmp)
 
 ## Cite *LeGO-LOAM*
 
