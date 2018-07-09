@@ -2,6 +2,10 @@
 
 Bag files captured using a Clearpath Jackal Robot, which is equipped with a Velodyne VLP-16 and low-end IMU sensor. The published point cloud topic is \velodyne_points. The published IMU data topic is \imu\data.
 
+Download the dataset at:
+
+https://drive.google.com/drive/folders/1hVpHJDgZ2x5l7D5PkwMV1fVaaAd6cJ5f?usp=sharing
+
 ## Environment
 
 The environment features trees, buildings and grass.
