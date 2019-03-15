@@ -1,6 +1,6 @@
 ## About Dataset
 
-Bag files captured using a Clearpath Jackal Robot, which is equipped with a Velodyne VLP-16 and low-end IMU sensor. The published point cloud topic is \velodyne_points. The published IMU data topic is \imu\data.
+Bag files captured using a Clearpath Jackal Robot, which is equipped with a Velodyne VLP-16 and low-end IMU sensor. The published point cloud topic is /velodyne_points. The published IMU data topic is /imu/data.
 
 Download the dataset at:
 
@@ -19,7 +19,7 @@ Thank you for citing our *LeGO-LOAM* paper if you use any of this dataset:
   title={LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain},
   author={Tixiao Shan and Brendan Englot},
   booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  pages={Accepted, To Appear in October},
+  pages={4758-4765},
   year={2018},
   organization={IEEE}
 }
